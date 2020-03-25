@@ -1,0 +1,8 @@
+.box{
+	font-family: 'Oxanium', cursive;
+	font-size: 100px;
+	width:200px;
+	margin-left: auto;
+    margin-right: auto;
+	text-shadow: #FC0 10px 10px 10px;
+}
